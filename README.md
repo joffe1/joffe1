@@ -7,14 +7,9 @@
 </p>
 
 <p align='center'>
-  
-  <a href="https://www.linkedin.com/in/ikovaliov/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ikovaliov_/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
+    <a href="https://www.linkedin.com/in/ikovaliov/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+    <a href="https://www.instagram.com/ikovaliov_/" target="_blank"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
+	  <a href="https://github.com/ikovaliov/"><img src="https://img.shields.io/github/followers/ikovaliov.svg?label=GitHub&style=social" alt="GitHub"></a>
 </p>
 
 <p align='center'>
@@ -27,3 +22,5 @@
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/ikovaliov/ikovaliov"></a>
 </p>
+
+
