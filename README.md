@@ -34,6 +34,7 @@
 <img align="left" src="https://img.shields.io/badge/Node.js-323330?logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Vue.js-323330?logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/React-323330?logo=react&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Redux-323330?logo=redux&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Express.js-323330?logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/PHP-323330?logo=php&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Laravel-323330?logo=laravel&logoColor=white" />
