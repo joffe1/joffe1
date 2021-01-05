@@ -28,7 +28,7 @@
 ## Technical summary: 
 
 <div>
-	<img align="left" src="https://img.shields.io/badge/html5-323330?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/html5-323330?logo=html5&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/css3-323330?logo=css3&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Javascript-323330?logo=javascript&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Node.js-323330?logoColor=white" />
@@ -42,7 +42,7 @@
 <img align="left" src="https://img.shields.io/badge/MySql-323330?logo=mysql&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Responsive_Web_Development-323330?logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Agile_Methologies-323330?logoColor=white" />
-	<br />
+	<br /><br />
 	</div>
 
 ## Assistant tools: 
