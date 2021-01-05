@@ -24,3 +24,35 @@
 </p>
 
 
+
+## Technical summary: 
+
+<div>
+	<img align="left" src="https://img.shields.io/badge/html5-323330?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/css3-323330?logo=css3&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Javascript-323330?logo=javascript&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Node.js-323330?logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Vue.js-323330?logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/React-323330?logo=react&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Express.js-323330?logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/PHP-323330?logo=php&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Laravel-323330?logo=laravel&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Symfony-323330?logo=symfony&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/MongoDb-323330?logo=mongodb&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/MySql-323330?logo=mysql&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Responsive_Web_Development-323330?logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Agile_Methologies-323330?logoColor=white" />
+	<br />
+	</div>
+
+## Assistant tools: 
+
+<div>
+<img align="left" src="https://img.shields.io/badge/Sass-323330?logo=sass&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/LESS-323330?logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Babel-323330?logo=babel&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/WebPack-323330?logo=webpack&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Jira-323330?logo=jira&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/AWS-323330?logo=aws&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Git-323330?logo=git&logoColor=white" />
+</div>
