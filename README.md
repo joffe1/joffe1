@@ -24,7 +24,8 @@
 [<img align="left" alt="ikovaliov | Instagram" height="40px" src="./assets/images/instagram.png" />][instagram]
 [<img align="left" alt="ikovaliov | Medium" height="40px" src="./assets/images/medium.png" />][medium]
 [<img align="left" alt="ikovaliov | Dev" height="40px" src="./assets/images/dev.png" />][dev]
-
+<br/><br/>
+---
 
 ## Technical summary: <img src="https://media.giphy.com/media/xUA7aRK56aZWKVsHuw/giphy.gif" height="32"/>
 
@@ -45,7 +46,8 @@
 <img align="left" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Responsive_Web_Development-00000F?style=for-the-badge&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Agile_Methologies-00000F?style=for-the-badge&logoColor=white"/>
-
+<br/><br/>
+---
 
 ## Assistant tools: <img src="https://media.giphy.com/media/TgyarrvUBCkHdAJfBn/giphy.gif"  height="32"/>
 <img align="left" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
