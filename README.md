@@ -6,64 +6,55 @@
   A JavaScript developer and inventor from Vilnius, Lithuania.
 </p>
 
-<p align='center'>
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ikovaliov&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikovaliov&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+
+<img alt="Coding" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" align="right" height="200"/>
+
+### 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)\
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)\
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=C%23)\
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PHPStorm](https://img.shields.io/badge/-PHPStorm-05122A?style=flat&logo=phpstorm&logoColor=007ACC)\
+![Sketch](https://img.shields.io/badge/-Sketch-05122A?style=flat&logo=sketch)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)\
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ikovaliov">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ikovaliov&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ikovaliov&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
-
-
-<p align='center'>
-  📫 How to reach me: <a href='mailto:igor.kovaliov93@gmail.com'>igor.kovaliov93@gmail.com</a>
-</p>
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/ikovaliov/ikovaliov"></a>
-</p>
-
-### Connect with me: <img src="https://media.giphy.com/media/hs736Enlzeye8nVXie/giphy.gif" height="32"/>
+### 🤝🏻 &nbsp;Connect with Me
 
 [<img align="left" alt="ikovaliov | LinkedIn" height="40px" src="./assets/images/linkedin.png" />][linkedin]
 [<img align="left" alt="ikovaliov | Instagram" height="40px" src="./assets/images/instagram.png" />][instagram]
 [<img align="left" alt="ikovaliov | Medium" height="40px" src="./assets/images/medium.png" />][medium]
 [<img align="left" alt="ikovaliov | Dev" height="40px" src="./assets/images/dev.png" />][dev]
-<br/><br/>
+[<img align="left" alt="ikovaliov | Dev" height="40px" src="./assets/images/email.png" />][email]
 
 ---
-
-### Technical summary: <img src="https://media.giphy.com/media/xUA7aRK56aZWKVsHuw/giphy.gif" height="32"/>
-
-<img align="left" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="left" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-<img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="left" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-<img align="left" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Symfony-323330?style=for-the-badge" />
-<img align="left" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Responsive_Web_Development-00000F?style=for-the-badge&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Agile_Methologies-00000F?style=for-the-badge&logoColor=white"/>
-<br/><br/><br/><br/>
-
----
-
-### Assistant tools: <img src="https://media.giphy.com/media/TgyarrvUBCkHdAJfBn/giphy.gif"  height="32"/>
-<img align="left" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Babel-00000F?style=for-the-badge&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/WebPack-00000F?style=for-the-badge&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Jira-00000F?style=for-the-badge&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Git-00000F?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-
 
 [linkedin]: https://www.linkedin.com/in/ikovaliov/
 [medium]: https://medium.com/@ikovaliov/
 [dev]: https://dev.to/ikovaliov
-[gmail]: mailto:igor.kovaliov93@gmail.com
+[email]: mailto:igor.kovaliov93@gmail.com
 [instagram]: https://www.instagram.com/ikovaliov_/
