@@ -17,16 +17,16 @@
   <a href="#"><img src="https://badges.pufler.dev/visits/ikovaliov/ikovaliov"></a>
 </p>
 
-### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+## Connect with me: <img src="https://media.giphy.com/media/hs736Enlzeye8nVXie/giphy.gif" height="32">
 
-[<img align="left" alt="ikovaliov | LinkedIn" height="22px" src="./assets/images/linkedin.png" />][linkedin]
-[<img align="left" alt="ikovaliov | Medium" height="22px" src="./assets/images/medium.png" />][medium]
-[<img align="left" alt="ikovaliov | Dev" height="22px" src="./assets/images/dev.png" />][dev]
-[<img align="left" alt="ikovaliov | Instagram" height="22px" src="./assets/images/instagram.png" />][instagram]
+[<img align="left" alt="ikovaliov | LinkedIn" height="40px" src="./assets/images/linkedin.png" />][linkedin]
+[<img align="left" alt="ikovaliov | Instagram" height="40px" src="./assets/images/instagram.png" />][instagram]
+[<img align="left" alt="ikovaliov | Medium" height="40px" src="./assets/images/medium.png" />][medium]
+[<img align="left" alt="ikovaliov | Dev" height="40px" src="./assets/images/dev.png" />][dev]
 
 <br />
 
-## Technical summary:
+## Technical summary: <img src="https://media.giphy.com/media/xUA7aRK56aZWKVsHuw/giphy.gif" height="32">
 
 <div>
 <img align="left" src="https://img.shields.io/badge/html5-323330?logo=html5&logoColor=white" />
@@ -47,7 +47,7 @@
 	<br /><br />
 	</div>
 
-## Assistant tools:
+## Assistant tools: <img src="https://media.giphy.com/media/TgyarrvUBCkHdAJfBn/giphy.gif"  height="32">
 
 <div>
 <img align="left" src="https://img.shields.io/badge/Sass-323330?logo=sass&logoColor=white" />
@@ -59,7 +59,6 @@
 <img align="left" src="https://img.shields.io/badge/Git-323330?logo=git&logoColor=white" />
 </div>
 
----
 
 [linkedin]: https://www.linkedin.com/in/ikovaliov/
 [medium]: https://medium.com/@ikovaliov/
