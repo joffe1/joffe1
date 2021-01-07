@@ -18,19 +18,16 @@
   <a href="#"><img src="https://badges.pufler.dev/visits/ikovaliov/ikovaliov"></a>
 </p>
 
-### Connect with me: <img src="https://media.giphy.com/media/hs736Enlzeye8nVXie/giphy.gif" height="32">
+## Connect with me: <img src="https://media.giphy.com/media/hs736Enlzeye8nVXie/giphy.gif" height="32"/>
 
 [<img align="left" alt="ikovaliov | LinkedIn" height="40px" src="./assets/images/linkedin.png" />][linkedin]
 [<img align="left" alt="ikovaliov | Instagram" height="40px" src="./assets/images/instagram.png" />][instagram]
 [<img align="left" alt="ikovaliov | Medium" height="40px" src="./assets/images/medium.png" />][medium]
 [<img align="left" alt="ikovaliov | Dev" height="40px" src="./assets/images/dev.png" />][dev]
-<br /><br />
 
----
 
-### Technical summary: <img src="https://media.giphy.com/media/xUA7aRK56aZWKVsHuw/giphy.gif" height="32">
+## Technical summary: <img src="https://media.giphy.com/media/xUA7aRK56aZWKVsHuw/giphy.gif" height="32"/>
 
-<div>
 <img align="left" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -48,21 +45,16 @@
 <img align="left" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Responsive_Web_Development-00000F?style=for-the-badge&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Agile_Methologies-00000F?style=for-the-badge&logoColor=white"/>
-<br /><br />
-</div>
 
----
 
-### Assistant tools: <img src="https://media.giphy.com/media/TgyarrvUBCkHdAJfBn/giphy.gif"  height="32">
-
-<div>
+## Assistant tools: <img src="https://media.giphy.com/media/TgyarrvUBCkHdAJfBn/giphy.gif"  height="32"/>
 <img align="left" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Babel-00000F?style=for-the-badge&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/WebPack-00000F?style=for-the-badge&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Jira-00000F?style=for-the-badge&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Git-00000F?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</div>
+
 
 [linkedin]: https://www.linkedin.com/in/ikovaliov/
 [medium]: https://medium.com/@ikovaliov/
