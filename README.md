@@ -33,7 +33,7 @@
 ![Sketch](https://img.shields.io/badge/-Sketch-000000?style=flat&logo=sketch)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=flat&logo=adobe-photoshop)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-000000?style=flat&logo=adobe-illustrator)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-000000?style=flat&logo=adobe-indesign)\
+![InDesign](https://img.shields.io/badge/-InDesign-000000?style=flat&logo=adobe-indesign)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
