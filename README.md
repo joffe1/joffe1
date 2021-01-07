@@ -47,7 +47,7 @@
 <img align="left" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Responsive_Web_Development-00000F?style=for-the-badge&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Agile_Methologies-00000F?style=for-the-badge&logoColor=white"/>
-<br/><br/>
+<br/><br/><br/><br/>
 
 ---
 
