@@ -7,12 +7,6 @@
 </p>
 
 <p align='center'>
-    <a href="https://www.linkedin.com/in/ikovaliov/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-    <a href="https://www.instagram.com/ikovaliov_/" target="_blank"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
-	  <a href="https://github.com/ikovaliov/"><img src="https://img.shields.io/github/followers/ikovaliov.svg?label=GitHub&style=social" alt="GitHub"></a>
-</p>
-
-<p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ikovaliov&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
@@ -23,6 +17,14 @@
   <a href="#"><img src="https://badges.pufler.dev/visits/ikovaliov/ikovaliov"></a>
 </p>
 
+### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+
+[<img align="left" alt="ikovaliov | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
+[<img align="left" alt="ikovaliov | Medium" height="22px" src="./SocialLogo/Medium.png" />][medium]
+[<img align="left" alt="ikovaliov | Dev" height="22px" src="./SocialLogo/Dev.png" />][dev]
+[<img align="left" alt="ikovaliov | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
+
+<br />
 
 
 ## Technical summary: 
@@ -57,3 +59,12 @@
 <img align="left" src="https://img.shields.io/badge/AWS-323330?logo=aws&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Git-323330?logo=git&logoColor=white" />
 </div>
+
+
+---
+
+[linkedin]: https://www.linkedin.com/in/ikovaliov/
+[medium]: https://medium.com/@ikovaliov/
+[dev]: https://dev.to/ikovaliov
+[gmail]: mailto:igor.kovaliov93@gmail.com
+[instagram]: https://www.instagram.com/ikovaliov_/
