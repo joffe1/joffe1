@@ -30,6 +30,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PHPStorm](https://img.shields.io/badge/-PHPStorm-000000?style=flat&logo=phpstorm&logoColor=007ACC)\
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)&nbsp;
 ![Sketch](https://img.shields.io/badge/-Sketch-000000?style=flat&logo=sketch)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=flat&logo=adobe-photoshop)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-000000?style=flat&logo=adobe-illustrator)&nbsp;
