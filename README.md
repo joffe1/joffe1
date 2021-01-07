@@ -49,7 +49,7 @@
 [<img align="left" alt="ikovaliov | Instagram" height="40px" src="./assets/images/instagram.png" />][instagram]
 [<img align="left" alt="ikovaliov | Medium" height="40px" src="./assets/images/medium.png" />][medium]
 [<img align="left" alt="ikovaliov | Dev" height="40px" src="./assets/images/dev.png" />][dev]
-[<img align="left" alt="ikovaliov | Dev" height="40px" src="./assets/images/email.png" />][email]
+[<img align="left" alt="ikovaliov | Email" height="40px" src="./assets/images/email.png" />][email]
 
 ---
 
