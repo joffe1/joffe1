@@ -7,7 +7,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ikovaliov&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ikovaliov&show_icons=true&count_private=true&theme=radical" width="350"></a>
 </p>
 
 <p align='center'>
@@ -29,7 +29,6 @@
 
 ### Technical summary: <img src="https://media.giphy.com/media/xUA7aRK56aZWKVsHuw/giphy.gif" height="32">
 
-<div>
 <img align="left" src="https://img.shields.io/badge/html5-323330?logo=html5&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/css3-323330?logo=css3&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Javascript-323330?logo=javascript&logoColor=white" />
@@ -45,14 +44,12 @@
 <img align="left" src="https://img.shields.io/badge/MySql-323330?logo=mysql&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Responsive_Web_Development-323330?logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Agile_Methologies-323330?logoColor=white" />
-	<br /><br />
-	</div>
+<br /><br />
 	
 ---
 
 ### Assistant tools: <img src="https://media.giphy.com/media/TgyarrvUBCkHdAJfBn/giphy.gif"  height="32">
 
-<div>
 <img align="left" src="https://img.shields.io/badge/Sass-323330?logo=sass&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/LESS-323330?logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Babel-323330?logo=babel&logoColor=white" />
@@ -60,7 +57,6 @@
 <img align="left" src="https://img.shields.io/badge/Jira-323330?logo=jira&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/AWS-323330?logo=aws&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Git-323330?logo=git&logoColor=white" />
-</div>
 
 
 [linkedin]: https://www.linkedin.com/in/ikovaliov/
