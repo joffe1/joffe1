@@ -18,7 +18,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)\
 ![.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=.net)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=C%23)\
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=C#)\
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)\
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5)&nbsp;
