@@ -5,6 +5,9 @@
 <p align='center'>
   A JavaScript developer and inventor from Vilnius, Lithuania.
 </p>
+<p align='center'>
+  <img src="https://badges.pufler.dev/visits/ikovaliov/ikovaliov"/>
+</p>
 <br/>
 
 <img alt="Coding" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" align="right" height="200"/>
