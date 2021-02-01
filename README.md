@@ -6,7 +6,7 @@
   A JavaScript developer and inventor from Vilnius, Lithuania.
 </p>
 <p align='center'>
-  <img src="https://badges.pufler.dev/visits/ikovaliov/ikovaliov"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ikovaliov"/>
 </p>
 <br/>
 
