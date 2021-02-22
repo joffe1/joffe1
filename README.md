@@ -30,7 +30,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)\
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PHPStorm](https://img.shields.io/badge/-PHPStorm-000000?style=flat&logo=phpstorm&logoColor=007ACC)\
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)&nbsp;
