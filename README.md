@@ -29,7 +29,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS&logoColor=1572B6)\
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)&nbsp;
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?&logo=Bitbucket&logoColor=0052CC)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
