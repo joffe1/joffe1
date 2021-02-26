@@ -26,8 +26,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)\
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C)\
+![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS&logoColor=1572B6)\
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)&nbsp;
