@@ -23,6 +23,7 @@
 ![.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=.net)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=C#)\
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)&nbsp;
+![Symfony](https://img.shields.io/badge/-symfony-000000?style=flat&logo=symfony)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)\
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
