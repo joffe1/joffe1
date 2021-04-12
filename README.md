@@ -1,10 +1,10 @@
-<h1 align='center'>
-  Hi there 👋 I'm igor 👨‍💻
-</h1>
-
-<p align='center'>
-  A JavaScript developer and inventor from Vilnius, Lithuania.
-</p>
+```
+hello world 👋 I'm igor 👨‍💻
+``` 
+```
+A JavaScript developer and inventor from Vilnius, Lithuania.
+```
+ 
 <p align='center'>
   <img src="https://komarev.com/ghpvc/?username=ikovaliov&color=blueviolet&style=flat"/>
 </p>
