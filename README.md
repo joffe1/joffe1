@@ -15,6 +15,7 @@ A JavaScript developer and inventor from Vilnius, Lithuania.
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)\
