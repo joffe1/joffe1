@@ -63,4 +63,4 @@ A JavaScript developer and inventor from Vilnius, Lithuania.
 [medium]: https://medium.com/@ikovaliov/
 [dev]: https://dev.to/ikovaliov
 [email]: mailto:igor.kovaliov93@gmail.com
-[instagram]: https://www.instagram.com/ikovaliov_/
+[instagram]: https://www.instagram.com/ik___30/
