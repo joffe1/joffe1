@@ -2,7 +2,7 @@
 hello world 👋 I'm igor 👨‍💻
 ``` 
 ```
-A JavaScript developer and inventor from Vilnius, Lithuania.
+Software engineer and inventor from Lithuania.
 ```
  
 <p align='center'>
