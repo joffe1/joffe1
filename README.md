@@ -19,18 +19,18 @@
 ## 🪓 Languages and Tools:
 #### Programming Languages:
 
-[<img height="30px" src="https://img.shields.io/badge/-JavaScript-181717?style=flat&logo=javascript&logoColor=white" />](https://img.shields.io/badge/-JavaScript-181717?style=flat&logo=javascript&logoColor=white)
-[<img height="30px" src="https://img.shields.io/badge/-TypeScript-181717?style=flat&logo=typescript&logoColor=white" />](https://img.shields.io/badge/-TypeScript-181717?style=flat&logo=typescript&logoColor=white)
-[<img height="30px" src="https://img.shields.io/badge/-Php-181717?style=flat&logo=php&logoColor=white" />](https://img.shields.io/badge/-Php-181717?style=flat&logo=php&logoColor=white)
-[<img height="30px" src="https://img.shields.io/badge/-C%20Sharp-181717?style=flat&logo=c-sharp&logoColor=white" />](https://img.shields.io/badge/-C%20Sharp-181717?style=flat&logo=c-sharp&logoColor=white)
+[<img height="25px" src="https://img.shields.io/badge/-JavaScript-181717?style=flat&logo=javascript&logoColor=white" />](https://img.shields.io/badge/-JavaScript-181717?style=flat&logo=javascript&logoColor=white)
+[<img height="25px" src="https://img.shields.io/badge/-TypeScript-181717?style=flat&logo=typescript&logoColor=white" />](https://img.shields.io/badge/-TypeScript-181717?style=flat&logo=typescript&logoColor=white)
+[<img height="25px" src="https://img.shields.io/badge/-Php-181717?style=flat&logo=php&logoColor=white" />](https://img.shields.io/badge/-Php-181717?style=flat&logo=php&logoColor=white)
+[<img height="25px" src="https://img.shields.io/badge/-C%20Sharp-181717?style=flat&logo=c-sharp&logoColor=white" />](https://img.shields.io/badge/-C%20Sharp-181717?style=flat&logo=c-sharp&logoColor=white)
 <br/>
 
 #### Application and Data:
 
-[<img height="30px" src="https://img.shields.io/badge/-ReactJS-181717?style=flat&logo=react&logoColor=white" />](https://img.shields.io/badge/-ReactJS-181717?style=flat&logo=react&logoColor=white)
-[<img height="30px" src="https://img.shields.io/badge/-Redux-181717?style=flat&logo=redux" />](https://img.shields.io/badge/-Redux-181717?style=flat&logo=redux)
-[<img height="30px" src="https://img.shields.io/badge/-CSS3-181717?style=flat&logo=css3" />](https://img.shields.io/badge/-CSS3-181717?style=flat&logo=css3)
-[<img height="30px" src="https://img.shields.io/badge/-HTML5-181717?style=flat&logo=html5&logoColor=white" />](https://img.shields.io/badge/-HTML5-181717?style=flat&logo=html5&logoColor=white)
+[<img height="25px" src="https://img.shields.io/badge/-ReactJS-181717?style=flat&logo=react&logoColor=white" />](https://img.shields.io/badge/-ReactJS-181717?style=flat&logo=react&logoColor=white)
+[<img height="25px" src="https://img.shields.io/badge/-Redux-181717?style=flat&logo=redux" />](https://img.shields.io/badge/-Redux-181717?style=flat&logo=redux)
+[<img height="25px" src="https://img.shields.io/badge/-CSS3-181717?style=flat&logo=css3" />](https://img.shields.io/badge/-CSS3-181717?style=flat&logo=css3)
+[<img height="25px" src="https://img.shields.io/badge/-HTML5-181717?style=flat&logo=html5&logoColor=white" />](https://img.shields.io/badge/-HTML5-181717?style=flat&logo=html5&logoColor=white)
 [<img height="30px" src="https://img.shields.io/badge/-Styled%20Components-181717?style=flat&logo=styled-components&logoColor=white" />](https://img.shields.io/badge/-Styled%20Components-181717?style=flat&logo=styled-components&logoColor=white)
 [<img  height="30px" src="https://img.shields.io/badge/-Sass-181717?style=flat&logo=sass&logoColor=white" />](https://img.shields.io/badge/-Sass-181717?style=flat&logo=sass&logoColor=white)
 [<img height="30px" src="http://img.shields.io/badge/-NodeJS-181717?style=flat&logo=node.js&logoColor=white" />](http://img.shields.io/badge/-NodeJS-181717?style=flat&logo=node.js&logoColor=white)
