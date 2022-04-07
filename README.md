@@ -100,10 +100,10 @@
   <img width="413" src="https://github-readme-streak-stats.herokuapp.com?user=ikovaliov&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j" />
 </a>
 <a href="https://github.com/ikovaliov">
-  <img width="413" src="https://github-readme-stats.vercel.app/api?username=ikovaliov&show_icons=true&theme=radical&hide_border=true" />
+  <img width="413" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikovaliov&theme=radical&layout=compact&hide_border=true" />
 </a>
 <a href="https://github.com/ikovaliov">
-  <img width="413" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikovaliov&theme=radical&layout=compact&hide_border=true" />
+  <img width="413" src="https://github-readme-stats.vercel.app/api?username=ikovaliov&show_icons=true&theme=radical&hide_border=true" />
 </a>
 
 ![Snake animation](https://raw.githubusercontent.com/ikovaliov/ikovaliov/4e0e12097538f6636474d89d1bc0a25913260fd4/assets/images/github-contribution-grid-snake-1.svg)
