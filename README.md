@@ -2,7 +2,7 @@
  Hi there, I'm igor 👋
  <br/>
  <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ikovaliov&label=Profile%20views&color=0e75b6&style=flat" alt="ikovaliov" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ikovaliov&label=Profile%20views&color=000000&style=for-the-badge" alt="ikovaliov" /> </p>
 </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFE219&background=30340D00&vCenter=true&width=600&height=80&lines=Nice+to+meet+you!;I'm+Software+Engineer;Inventor;Travel+lover;Your+mom's+favourite+programmer)](https://git.io/typing-svg)
