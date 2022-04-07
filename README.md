@@ -44,4 +44,4 @@
 <br/><br/>
 </p>
 <br/><br/>
-<img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
+<img src="https://github.com/ikovaliov/ikovaliov/blob/main/assets/images/gif.gif?raw=true" width="100%"/>
