@@ -91,7 +91,7 @@
 
 #### Game:
 
-[<img height="28px" src="https://img.shields.io/badge/-Steam-181717?style=flat&logo=steam" />](https://img.shields.io/badge/-Steam-181717?style=flat&logo=steam)
+[<img height="28px" src="https://img.shields.io/badge/-Steam-181717?style=flat&logo=steam" />](https://steamcommunity.com/id/koval19/)
 <br/>
 
 ## 📊 Analytics:
