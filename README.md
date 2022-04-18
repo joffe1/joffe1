@@ -91,12 +91,12 @@
 
 #### Sport:
 
-[<img align="left" alt="ikovaliov | Strava" width="22px" src="./assets/images/strava.jpeg" />][strava]
+[<img alt="ikovaliov | Strava" height="28px" src="https://img.shields.io/badge/-Strava-181717?style=flat&logo=strava" />][strava]
 <br/>
 
 #### Game:
 
-[<img height="28px" src="https://img.shields.io/badge/-Steam-181717?style=flat&logo=steam" />][steam]
+[<img alt="ikovaliov | Steam" height="28px" src="https://img.shields.io/badge/-Steam-181717?style=flat&logo=steam" />][steam]
 <br/>
 
 ## 📊 Analytics:
