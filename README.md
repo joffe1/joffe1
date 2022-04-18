@@ -16,7 +16,6 @@
 [<img align="left" alt="ikovaliov | Twitter" width="22px" src="./assets/images/1twitter.svg" />][twitter]
 [<img align="left" alt="ikovaliov | Medium" width="22px" src="./assets/images/1medium.svg" />][medium]
 [<img align="left" alt="ikovaliov | Instagram" width="22px" src="./assets/images/1inst.png" />][instagram]
-[<img align="left" alt="ikovaliov | Strava" width="22px" src="./assets/images/strava.jpeg" />][strava]
 
 <br>
 <br>
@@ -90,9 +89,14 @@
 [<img height="28px" src="https://img.shields.io/badge/-Slack-181717?style=flat&logo=slack" />](https://img.shields.io/badge/-Slack-181717?style=flat&logo=slack)
 <br/>
 
+#### Sport:
+
+[<img align="left" alt="ikovaliov | Strava" width="22px" src="./assets/images/strava.jpeg" />][strava]
+<br/>
+
 #### Game:
 
-[<img height="28px" src="https://img.shields.io/badge/-Steam-181717?style=flat&logo=steam" />](https://steamcommunity.com/id/koval19/)
+[<img height="28px" src="https://img.shields.io/badge/-Steam-181717?style=flat&logo=steam" />][steam]
 <br/>
 
 ## 📊 Analytics:
