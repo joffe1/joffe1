@@ -16,6 +16,7 @@
 [<img align="left" alt="ikovaliov | Twitter" width="22px" src="./assets/images/1twitter.svg" />][twitter]
 [<img align="left" alt="ikovaliov | Medium" width="22px" src="./assets/images/1medium.svg" />][medium]
 [<img align="left" alt="ikovaliov | Instagram" width="22px" src="./assets/images/1inst.png" />][instagram]
+[<img align="left" alt="ikovaliov | Strava" width="22px" src="./assets/images/strava.png" />][strava]
 
 <br>
 <br>
@@ -130,3 +131,4 @@
 [instagram]: https://instagram.com/ik___30
 [steam]: https://steamcommunity.com/id/koval19/
 [github]: https://github.com/ikovaliov
+[strava]: https://www.strava.com/athletes/83708922
