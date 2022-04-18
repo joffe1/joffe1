@@ -16,7 +16,7 @@
 [<img align="left" alt="ikovaliov | Twitter" width="22px" src="./assets/images/1twitter.svg" />][twitter]
 [<img align="left" alt="ikovaliov | Medium" width="22px" src="./assets/images/1medium.svg" />][medium]
 [<img align="left" alt="ikovaliov | Instagram" width="22px" src="./assets/images/1inst.png" />][instagram]
-[<img align="left" alt="ikovaliov | Strava" width="22px" src="./assets/images/strava.png" />][strava]
+[<img align="left" alt="ikovaliov | Strava" width="22px" src="./assets/images/strava.jpeg" />][strava]
 
 <br>
 <br>
