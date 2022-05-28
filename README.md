@@ -67,6 +67,7 @@
 
 #### Utilities:
 
+[<img height="28px" src="https://img.shields.io/badge/-Vim-181717?style=flat&logo=vim" />](https://img.shields.io/badge/-Vim-181717?style=flat&logo=vim)
 [<img height="28px" src="https://img.shields.io/badge/-Postman-181717?style=flat&logo=postman" />](https://img.shields.io/badge/-Postman-181717?style=flat&logo=postman)
 [<img height="28px" src="https://img.shields.io/badge/-VSCode-181717?style=flat&logo=visual-studio-code" />](https://img.shields.io/badge/-VSCode-181717?style=flat&logo=visual-studio-code)
 [<img height="28px" src="https://img.shields.io/badge/-Visual%20Studio-181717?style=flat&logo=visual-studio" />](https://img.shields.io/badge/-Visual%20Studio-181717?style=flat&logo=visual-studio)
