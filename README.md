@@ -130,10 +130,10 @@
 <br/><br/>
 </p>
 
-[linkedin]: https://linkedin.com/in/ikovaliov
+[linkedin]: https://linkedin.com/in/igorjoffe
 [twitter]: https://twitter.com/ikovaliov_
 [medium]: https://medium.com/@ikovaliov
-[instagram]: https://instagram.com/ik___30
+[instagram]: https://instagram.com/joffe____
 [steam]: https://steamcommunity.com/id/koval19/
 [github]: https://github.com/ikovaliov
 [strava]: https://www.strava.com/athletes/83708922
