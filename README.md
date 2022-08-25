@@ -34,6 +34,7 @@
 
 [<img height="28px" src="https://img.shields.io/badge/-ReactJS-181717?style=flat&logo=react" />](https://img.shields.io/badge/-ReactJS-181717?style=flat&logo=react)
 [<img height="28px" src="https://img.shields.io/badge/-Redux-181717?style=flat&logo=redux" />](https://img.shields.io/badge/-Redux-181717?style=flat&logo=redux)
+[<img height="28px" src="https://img.shields.io/badge/-Graphql-181717?style=flat&logo=graphql" />](https://img.shields.io/badge/-Graphql-181717?style=flat&logo=graphql)
 [<img height="28px" src="https://img.shields.io/badge/-CSS3-181717?style=flat&logo=css3" />](https://img.shields.io/badge/-CSS3-181717?style=flat&logo=css3)
 [<img height="28px" src="https://img.shields.io/badge/-HTML5-181717?style=flat&logo=html5" />](https://img.shields.io/badge/-HTML5-181717?style=flat&logo=html5)
 [<img height="28px" src="https://img.shields.io/badge/-Styled%20Components-181717?style=flat&logo=styled-components" />](https://img.shields.io/badge/-Styled%20Components-181717?style=flat&logo=styled-components)
