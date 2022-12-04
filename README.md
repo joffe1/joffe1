@@ -12,10 +12,9 @@
 
 ## ✉️ Connect with me:
 
-[<img align="left" alt="ikovaliov | LinkedIn" width="22px" src="./assets/images/1linkedin.svg" />][linkedin]
-[<img align="left" alt="ikovaliov | Twitter" width="22px" src="./assets/images/1twitter.svg" />][twitter]
-[<img align="left" alt="ikovaliov | Medium" width="22px" src="./assets/images/1medium.svg" />][medium]
-[<img align="left" alt="ikovaliov | Instagram" width="22px" src="./assets/images/1inst.png" />][instagram]
+[<img align="left" alt="joffe | LinkedIn" width="22px" src="./assets/images/1linkedin.svg" />][linkedin]
+[<img align="left" alt="joffe | Twitter" width="22px" src="./assets/images/1twitter.svg" />][twitter]
+[<img align="left" alt="joffe | Instagram" width="22px" src="./assets/images/1inst.png" />][instagram]
 
 <br>
 <br>
@@ -132,8 +131,7 @@
 </p>
 
 [linkedin]: https://linkedin.com/in/igorjoffe
-[twitter]: https://twitter.com/ikovaliov_
-[medium]: https://medium.com/@ikovaliov
+[twitter]: https://twitter.com/joffe_igor
 [instagram]: https://instagram.com/joffe____
 [steam]: https://steamcommunity.com/id/koval19/
 [github]: https://github.com/ikovaliov
