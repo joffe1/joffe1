@@ -1,11 +1,11 @@
-<img src="https://github.com/ikovaliov/ikovaliov/blob/main/assets/images/gif.gif?raw=true" width="100%"/>
+<img src="https://github.com/joffe1/joffe1/blob/main/assets/images/gif.gif?raw=true" width="100%"/>
 <br/><br/>
 
 <h3 align="center">
  Hi there, I'm igor 👋 
  <br/>
  <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ikovaliov&label=Profile%20views&color=000000&style=for-the-badge" alt="ikovaliov" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=joffe1&label=Profile%20views&color=000000&style=for-the-badge" alt="views" /> </p>
 </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F7EE2C&vCenter=true&width=700&height=60&lines=Nice+to+meet+you!+;I'm+Software+Engineer;Inventor;Travel+lover;Your+girlfriend+favourite+programmer)](https://git.io/typing-svg)
@@ -92,41 +92,41 @@
 
 #### Sport:
 
-[<img alt="ikovaliov | Strava" height="28px" src="https://img.shields.io/badge/-Strava-181717?style=flat&logo=strava" />][strava]
+[<img alt="Strava" height="28px" src="https://img.shields.io/badge/-Strava-181717?style=flat&logo=strava" />][strava]
 <br/>
 
 #### Game:
 
-[<img alt="ikovaliov | Steam" height="28px" src="https://img.shields.io/badge/-Steam-181717?style=flat&logo=steam" />][steam]
+[<img alt="Steam" height="28px" src="https://img.shields.io/badge/-Steam-181717?style=flat&logo=steam" />][steam]
 <br/>
 
 ## 📊 Analytics:
 
- <a href="https://github.com/ikovaliov">
-  <img width="413" src="https://github-readme-streak-stats.herokuapp.com?user=ikovaliov&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j" />
+ <a href="https://github.com/joffe1">
+  <img width="413" src="https://github-readme-streak-stats.herokuapp.com?user=joffe1&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j" />
 </a>
-<a href="https://github.com/ikovaliov">
-  <img width="413" src="https://github-readme-stats.vercel.app/api?username=ikovaliov&show_icons=true&theme=radical&hide_border=true" />
+<a href="https://github.com/joffe1">
+  <img width="413" src="https://github-readme-stats.vercel.app/api?username=joffe1&show_icons=true&theme=radical&hide_border=true" />
 </a>
-<a href="https://github.com/ikovaliov">
-  <img width="413" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikovaliov&theme=radical&layout=compact&hide_border=true" />
+<a href="https://github.com/joffe1">
+  <img width="413" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joffe1&theme=radical&layout=compact&hide_border=true" />
 </a>
 
-![Snake animation](https://raw.githubusercontent.com/ikovaliov/ikovaliov/4e0e12097538f6636474d89d1bc0a25913260fd4/assets/images/github-contribution-grid-snake-1.svg)
+![Snake animation](https://raw.githubusercontent.com/joffe1/joffe1/4e0e12097538f6636474d89d1bc0a25913260fd4/assets/images/github-contribution-grid-snake-1.svg)
 
 ## 💹 Contribution Graph
 
-<a href="https://github.com/ikovaliov"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ikovaliov&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /> <br/></a>
+<a href="https://github.com/joffe1"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=joffe1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /> <br/></a>
 
 ## 🏆 Trophies:
 
-<p align="left"> <a href="https://github.com/ikovaliov/"><img src="https://github-profile-trophy.vercel.app/?username=ikovaliov&theme=radical" alt="ikovaliov" /></a>
+<p align="left"> <a href="https://github.com/joffe1/"><img src="https://github-profile-trophy.vercel.app/?username=joffe1&theme=radical" alt="trophy" /></a>
 <br/>
 </p>
 
 ## 🙌 Support:
 
-<p><a href="https://www.buymeacoffee.com/ikovaliov"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ikovaliov" /></a>
+<p><a href="https://www.buymeacoffee.com/ikovaliov"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a>
 <br/><br/>
 </p>
 
@@ -134,5 +134,5 @@
 [twitter]: https://twitter.com/joffe_igor
 [instagram]: https://instagram.com/joffe____
 [steam]: https://steamcommunity.com/id/koval19/
-[github]: https://github.com/ikovaliov
+[github]: https://github.com/joffe1
 [strava]: https://www.strava.com/athletes/83708922
