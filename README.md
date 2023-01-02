@@ -102,27 +102,17 @@
 
 ## 📊 Analytics:
 
- <a href="https://github.com/joffe1">
-  <img width="413" src="https://github-readme-streak-stats.herokuapp.com?user=joffe1&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j" />
-</a>
-<a href="https://github.com/joffe1">
-  <img width="413" src="https://github-readme-stats.vercel.app/api?username=joffe1&show_icons=true&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/joffe1">
-  <img width="413" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joffe1&theme=radical&layout=compact&hide_border=true" />
-</a>
-
-![Snake animation](https://raw.githubusercontent.com/joffe1/joffe1/4e0e12097538f6636474d89d1bc0a25913260fd4/assets/images/github-contribution-grid-snake-1.svg)
+[![Joffe's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=joffe1&theme=jolly&hide_border=true&date_format=%5BY%20%5DM%20j)](https://github.com/joffe1)
+[![Joffe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joffe1&show_icons=true&theme=jolly&hide_border=true)](https://github.com/joffe1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joffe1&layout=compact&theme=jolly&hide_border=true)](https://github.com/joffe1)
 
 ## 💹 Contribution Graph
 
-<a href="https://github.com/joffe1"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=joffe1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /> <br/></a>
+[![Joffe's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=joffe1)](https://github.com/joffe1)
 
 ## 🏆 Trophies:
 
-<p align="left"> <a href="https://github.com/joffe1/"><img src="https://github-profile-trophy.vercel.app/?username=joffe1&theme=radical" alt="trophy" /></a>
-<br/>
-</p>
+[![Joffe's trophies](https://github-profile-trophy.vercel.app/?username=joffe1&theme=dracula&row=1&column=6)](https://github.com/joffe1)
 
 ## 🙌 Support:
 
