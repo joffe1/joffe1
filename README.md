@@ -103,7 +103,7 @@
 ## 📊 Analytics:
 
 <a href="https://github.com/joffe1">
-<img width="413" src="https://github-readme-streak-stats.herokuapp.com?user=joffe1&theme=jolly&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly" />
+  <img width="413" src="https://github-readme-streak-stats.herokuapp.com?user=joffe1&theme=jolly&hide_border=true&date_format=%5BY%20%5DM%20j" />
 </a>
 <a href="https://github.com/joffe1">
   <img width="413" src="https://github-readme-stats.vercel.app/api?username=joffe1&show_icons=true&theme=jolly&hide_border=true" />
