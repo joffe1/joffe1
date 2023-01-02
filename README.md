@@ -102,8 +102,8 @@
 
 ## 📊 Analytics:
 
-[![Joffe's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=joffe1&theme=jolly&hide_border=true&date_format=%5BY%20%5DM%20j)](https://github.com/joffe1)
-[![Joffe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joffe1&show_icons=true&theme=jolly&hide_border=true)](https://github.com/joffe1)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joffe1&theme=jolly&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly)](https://github.com/joffe1)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=joffe1&show_icons=true&theme=jolly&hide_border=true)](https://github.com/joffe1)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joffe1&layout=compact&theme=jolly&hide_border=true)](https://github.com/joffe1)
 
 ## 💹 Contribution Graph
