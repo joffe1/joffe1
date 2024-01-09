@@ -112,10 +112,6 @@
   <img width="413" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joffe1&layout=compact&theme=jolly&hide_border=true" />
 </a>
 
-## 💹 Contribution Graph
-
-[![Joffe's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=joffe1)](https://github.com/joffe1)
-
 ## 🏆 Trophies:
 
 [![Joffe's trophies](https://github-profile-trophy.vercel.app/?username=joffe1&theme=dracula&row=1&column=6)](https://github.com/joffe1)
