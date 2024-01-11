@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joffe1&label=Profile%20views&color=000000&style=for-the-badge" alt="views" /> </p>
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F7EE2C&vCenter=true&width=700&height=60&lines=Nice+to+meet+you!+;I'm+Software+Engineer;Inventor;Travel+lover;Your+girlfriend's+favourite+programmer)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F7EE2C&vCenter=true&width=700&height=60&lines=Nice+to+meet+you!+;I'm+Software+Engineer;Inventor;Travel+lover;Your+girlfriend's+favourite+programmer)
 
 ## ✉️ Connect with me:
 
