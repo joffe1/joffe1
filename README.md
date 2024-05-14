@@ -117,12 +117,6 @@
 
 [![Joffe's trophies](https://github-profile-trophy.vercel.app/?username=joffe1&theme=dracula&row=1&column=6)](https://github.com/joffe1)
 
-## 🙌 Support:
-
-<p><a href="https://www.buymeacoffee.com/ikovaliov" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a>
-<br/><br/>
-</p>
-
 [linkedin]: https://linkedin.com/in/igorjoffe
 [twitter]: https://twitter.com/joffe_igor
 [instagram]: https://instagram.com/joffe____
