@@ -52,9 +52,7 @@
 #### QA & Testing
 
 [<img height="28px" src="https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest" />](https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest)
-[<img height="28px" src="https://img.shields.io/badge/-React%20Testing%20Library-000000?style=flat&logo=octopusdeploy" />](https://img.shields.io/badge/-React%20Testing%20Library-000000?style=flat&logo=octopusdeploy)
 [<img height="28px" src="https://img.shields.io/badge/-Cypress-000000?style=flat&logo=cypress" />](https://img.shields.io/badge/-Cypress-000000?style=flat&logo=cypress)
-[<img height="28px" src="https://img.shields.io/badge/-ESLint-000000?style=flat&logo=eslint" />](https://img.shields.io/badge/-ESLint-000000?style=flat&logo=eslint)
 <br/>
 
 #### UX/UI:
@@ -81,14 +79,7 @@
 [<img height="28px" src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github" />](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
 [<img height="28px" src="https://img.shields.io/badge/-Gitlab-000000?style=flat&logo=gitlab" />](https://img.shields.io/badge/-Gitlab-000000?style=flat&logo=gitlab)
 [<img height="28px" src="https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes" />](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes)
-[<img height="28px" src="https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins" />](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins)
 [<img height="28px" src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" />](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
-<br/>
-
-#### Business:
-
-[<img height="28px" src="https://img.shields.io/badge/-Trello-000000?style=flat&logo=trello" />](https://img.shields.io/badge/-Trello-000000?style=flat&logo=trello)
-[<img height="28px" src="https://img.shields.io/badge/-Slack-000000?style=flat&logo=slack" />](https://img.shields.io/badge/-Slack-000000?style=flat&logo=slack)
 <br/>
 
 #### Sport:
