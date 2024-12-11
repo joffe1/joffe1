@@ -10,12 +10,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F7EE2C&vCenter=true&width=700&height=60&lines=Nice+to+meet+you!+;I'm+Software+Engineer;Inventor;Travel+lover;Your+girlfriend's+favourite+programmer)
 
-## ✉️ Connect with me:
-
-[<img align="left" alt="joffe | LinkedIn" width="22px" src="./assets/images/1linkedin.svg" />][linkedin]
-[<img align="left" alt="joffe | Twitter" width="22px" src="./assets/images/1twitter.svg" />][twitter]
-[<img align="left" alt="joffe | Instagram" width="22px" src="./assets/images/1inst.png" />][instagram]
-
 <br>
 <br>
 
@@ -80,16 +74,7 @@
 [<img height="28px" src="https://img.shields.io/badge/-Gitlab-000000?style=flat&logo=gitlab" />](https://img.shields.io/badge/-Gitlab-000000?style=flat&logo=gitlab)
 [<img height="28px" src="https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes" />](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes)
 [<img height="28px" src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" />](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
-<br/>
 
-#### Sport:
-
-[<img alt="Strava" height="28px" src="https://img.shields.io/badge/-Strava-000000?style=flat&logo=strava" />][strava]
-<br/>
-
-#### Game:
-
-[<img alt="Steam" height="28px" src="https://img.shields.io/badge/-Steam-000000?style=flat&logo=steam" />][steam]
 <br/>
 
 ## 📊 Analytics:
@@ -108,9 +93,4 @@
 
 [![Joffe's trophies](https://github-profile-trophy.vercel.app/?username=joffe1&theme=dracula&row=1&column=6)](https://github.com/joffe1)
 
-[linkedin]: https://linkedin.com/in/igorjoffe
-[twitter]: https://twitter.com/joffe_igor
-[instagram]: https://instagram.com/joffe____
-[steam]: https://steamcommunity.com/id/koval19/
 [github]: https://github.com/joffe1
-[strava]: https://www.strava.com/athletes/83708922
