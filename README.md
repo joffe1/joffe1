@@ -10,9 +10,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F7EE2C&vCenter=true&width=700&height=60&lines=Nice+to+meet+you!+;I'm+Software+Engineer;Inventor;Travel+lover;Your+girlfriend's+favourite+programmer)
 
-<br>
-<br>
-
 ## 🪓 Languages and Tools:
 
 #### Programming Languages:
